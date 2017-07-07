@@ -33,7 +33,7 @@
     "svgo": "0.7.2",
     "svgo-loader": "1.2.1",
     "url-loader": "0.5.9",
-    "webpack": "1.15.0",
+    "webpack": "2.6.1",
     "webpack-entries-plugin": "0.0.3",
     "winston": "2.3.1"
   },
