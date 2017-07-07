@@ -9,7 +9,7 @@
     "browserify": "14.4.0",
     "browserify-css": "0.11.0",
     "cheerio": "0.22.0",
-    "config": "1.26.0",
+    "config": "1.26.1",
     "css-loader": "0.28.4",
     "datauri": "1.0.5",
     "exports-loader": "0.6.4",
