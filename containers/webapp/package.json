@@ -6,7 +6,7 @@
   "dependencies": {
     "@google/maps": "0.4.2",
     "@mapbox/geojson-extent": "0.3.2",
-    "aws-sdk": "2.82.0",
+    "aws-sdk": "2.85.0",
     "body-parser": "1.17.2",
     "chartist": "0.11.0",
     "cheerio": "0.22.0",
