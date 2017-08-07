@@ -54,7 +54,7 @@
     "maildev": "0.14.0",
     "mocha": "3.4.2",
     "nock": "9.0.13",
-    "node-inspector": "0.12.10",
+    "node-inspector": "1.1.1",
     "node-libs-browser": "2.0.0",
     "node-uuid": "1.4.8",
     "protractor": "4.0.14",
