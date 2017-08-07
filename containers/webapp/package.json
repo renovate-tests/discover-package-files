@@ -28,7 +28,7 @@
     "lawgs": "1.0.4",
     "method-override": "2.3.9",
     "moment": "2.18.1",
-    "morgan": "1.8.0",
+    "morgan": "1.8.2",
     "node-chartist": "1.0.5",
     "nodemailer": "4.0.1",
     "pg": "6.4.0",
