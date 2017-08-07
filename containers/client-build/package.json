@@ -88,7 +88,7 @@
     "tether-shepherd": "1.8.1",
     "ui-select": "0.19.8"
   },
-  "renovate": {
+  "renovater": {
 	"packages": [
 	  {
 	    "packagePattern": "^(angular|angular-animate|angular-scroll)$",
