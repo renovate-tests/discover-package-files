@@ -69,7 +69,7 @@
     "leaflet.markercluster": "1.0.6",
     "loadjs": "3.5.0",
     "mapbox.js": "3.1.1",
-    "mixpanel-browser": "2.11.1",
+    "mixpanel-browser": "2.13.0",
     "moment": "2.18.1",
     "ng-annotate": "1.2.2",
     "ng-fittext": "4.2.3",
