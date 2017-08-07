@@ -52,7 +52,7 @@
     "glob": "7.1.0",
     "istanbul": "0.4.5",
     "maildev": "0.14.0",
-    "mocha": "3.4.2",
+    "mocha": "3.5.0",
     "nock": "9.0.13",
     "node-inspector": "0.12.10",
     "node-libs-browser": "2.0.0",
