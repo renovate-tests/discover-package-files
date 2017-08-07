@@ -4,7 +4,7 @@
   "private": true,
   "license": "Proprietary and Confidential",
   "dependencies": {
-    "@google/maps": "0.4.2",
+    "@google/maps": "0.4.3",
     "@mapbox/geojson-extent": "0.3.2",
     "aws-sdk": "2.82.0",
     "body-parser": "1.17.2",
