@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "amphtml-validator": "1.0.20",
-    "browser-sync": "2.18.12",
+    "browser-sync": "2.18.13",
     "firebase-bolt": "0.8.2",
     "glob": "7.1.0",
     "istanbul": "0.4.5",
